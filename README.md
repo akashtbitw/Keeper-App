@@ -5,6 +5,12 @@ Extract file.
 
 Open the folder in VS Code.
 
-Run `npm i` in terminal.
+Run in terminal :
+```bash
+npm i
+```
 
-Run `npm run start` in terminal.
+Run in terminal :
+```bash
+npm run start
+```
